@@ -1,0 +1,9 @@
+
+=========== For Single Branch ===========
+
+git add -A .
+git commit -m "message"
+git push origin
+
+== For Local & Origin Branch Settings ===
+
